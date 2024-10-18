@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TesteAssinaturaJornal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1097485b-07fe-4856-97b7-da26412ee9fd</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>772f413c-f295-4d64-ab16-9c432c48cc6e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MassaDadosTesteAssinatura</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>772f413c-f295-4d64-ab16-9c432c48cc6e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>emailAssinante</value>
+      <variableId>4ec5c54c-dfa3-4e39-89b1-81011845fd07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ec5c54c-dfa3-4e39-89b1-81011845fd07</id>
+      <masked>false</masked>
+      <name>emailTelaAssinante</name>
+   </variable>
+</TestCaseEntity>

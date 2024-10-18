@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Assine a Folha</name>
+   <tag></tag>
+   <elementGuidId>12a353fe-3766-4510-be25-10feecea0a86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.c-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c-top-signup']/div/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Assine a Folha&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3d994ff2-d75d-49ac-8468-712968a4e0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://assinaturas.folha.com.br/i/441024?_gl=1*xyl0dr*_gcl_au*OTExNzkwNzM0LjE3MjkyMDgzMjA.*_ga*MTU1NjAyNjI1OC4xNzI5MjA4MzIw*_ga_RY1LTN28TR*MTcyOTIwODMxOS4xLjAuMTcyOTIwODMxOS42MC4wLjA.</value>
+      <webElementGuid>71c1091e-de99-4391-94cd-f9e799b1e236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-button</value>
+      <webElementGuid>5d64c5f5-1c52-46a0-9091-f1d3316b481a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assine a Folha</value>
+      <webElementGuid>6b467040-0c62-479d-a98d-c2899a465bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-top-signup&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;flex flex--center&quot;]/div[@class=&quot;flex-cell c-top-signup--secondary&quot;]/a[@class=&quot;c-button&quot;]</value>
+      <webElementGuid>24bd1608-5dbc-4f4f-8f8a-d8844699e970</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-top-signup']/div/div/div[2]/a</value>
+      <webElementGuid>399c551e-7c46-4851-8cc6-b0cdf97bc84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Assine a Folha')]</value>
+      <webElementGuid>97ff40c4-8813-4694-a01b-818300268331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oferta Especial: R$1,90 no 1º mês'])[1]/following::a[1]</value>
+      <webElementGuid>42693e21-8cc7-43a5-be78-dceecab9a860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar nos sites da Folha de S.Paulo'])[1]/following::a[1]</value>
+      <webElementGuid>a59c59cc-bd35-4fdd-af0f-cdc3aac6041a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OFERTA ESPECIAL FOLHA'])[1]/preceding::a[1]</value>
+      <webElementGuid>252516bc-c765-40dc-ba23-aeb02e74ac35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conecte-se ao jornal mais influente do Brasil'])[1]/preceding::a[1]</value>
+      <webElementGuid>fe4ad09e-5e6e-4922-b048-f92d643932fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Assine a Folha']/parent::*</value>
+      <webElementGuid>023dd1b6-948a-410e-a750-e92cf2178cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://assinaturas.folha.com.br/i/441024?_gl=1*xyl0dr*_gcl_au*OTExNzkwNzM0LjE3MjkyMDgzMjA.*_ga*MTU1NjAyNjI1OC4xNzI5MjA4MzIw*_ga_RY1LTN28TR*MTcyOTIwODMxOS4xLjAuMTcyOTIwODMxOS42MC4wLjA.')]</value>
+      <webElementGuid>9bf9c0c6-bb6c-4c1a-8ebd-66b47b3e6798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/a</value>
+      <webElementGuid>46789b56-02b7-47f6-a127-09a53ae11e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://assinaturas.folha.com.br/i/441024?_gl=1*xyl0dr*_gcl_au*OTExNzkwNzM0LjE3MjkyMDgzMjA.*_ga*MTU1NjAyNjI1OC4xNzI5MjA4MzIw*_ga_RY1LTN28TR*MTcyOTIwODMxOS4xLjAuMTcyOTIwODMxOS42MC4wLjA.' and (text() = 'Assine a Folha' or . = 'Assine a Folha')]</value>
+      <webElementGuid>a4d04195-82bb-4327-aff0-a5a45be8642d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://assinaturas.folha.com.br/i/441024?_gl=1*1toddux*_gcl_au*ODc2ODAxMTE3LjE3MjkyMDY0ODU.*_ga*NzczMzc1NTYzLjE3MjkyMDY0ODU.*_ga_RY1LTN28TR*MTcyOTIwNjQ4NC4xLjAuMTcyOTIwNjQ5NC41MC4wLjA.')]</value>
+      <webElementGuid>ad306196-9302-4bf2-baad-093ce3882c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://assinaturas.folha.com.br/i/441024?_gl=1*1toddux*_gcl_au*ODc2ODAxMTE3LjE3MjkyMDY0ODU.*_ga*NzczMzc1NTYzLjE3MjkyMDY0ODU.*_ga_RY1LTN28TR*MTcyOTIwNjQ4NC4xLjAuMTcyOTIwNjQ5NC41MC4wLjA.' and (text() = 'Assine a Folha' or . = 'Assine a Folha')]</value>
+      <webElementGuid>129522f6-f40d-413d-ad92-30eb0288189f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

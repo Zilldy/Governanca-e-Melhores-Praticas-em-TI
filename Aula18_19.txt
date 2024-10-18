@@ -1,0 +1,20 @@
+Aplicações de testes:
+	Funcionais:
+		Smoke Test:
+		--->	Xenu
+		--->	ZapTest
+		Record & Playback:
+		--->	Selenium
+		--->	Katalon
+		Data Driven:
+		--->	Katalon
+	Não Funcionais:
+		Portabilidade:
+		--->	Katalon
+		Desempenho:
+		--->	Jmeter
+		--->	Blaze Meter
+		Estresse:
+		--->	Jmeter
+		--->	Blaze Meter
+		
